@@ -19,9 +19,6 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#Program to swap two values.
-#Developed by:S Vaishnav Nanda 
-#RegisterNumber:212222240112
 a=input()
 b=input()
 #temporary basket as temp
