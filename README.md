@@ -28,7 +28,7 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![GitHub Logo](1a.png)
+![GitHub Logo](ex1.png)
 
 
 ## RESULT:
